@@ -1,0 +1,23 @@
+body{
+    background-image:linear-gradient(to right,lightblue,lightgreen,rgb(214, 158, 214),pink,rgb(255, 135, 135));
+}
+.heading{
+    font-size: 23px;
+    width:100%;
+    margin:0;
+}
+.copyrightFooter{
+    position: fixed;
+    color:antiquewhite;
+    bottom:0;
+    width:100%;
+    background-color: rgb(152, 101, 201);
+    line-height:2;
+    text-align:center;
+}
+canvas{
+    border-radius:10px;
+    border:2px solid white;
+    margin-top:180px;
+    box-shadow:5px 5px 5px white;
+}
